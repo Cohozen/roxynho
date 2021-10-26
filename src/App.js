@@ -57,10 +57,10 @@ const App = () => {
     <div className="container mx-auto m-4">
       <NavBar />
       <div className="hero min-h-screen bg-base-200 rounded-lg">
-        <div className="flex-col hero-content lg:flex-row-reverse">
+        <div className="flex-col text-center hero-content lg:flex-row-reverse">
           <img src={heroImage} className="max-w-sm rounded-lg shadow-2xl" alt="hero" />
           <div>
-            <h1 className="mb-5 text-5xl font-bold">
+            <h1 className="mb-5  text-5xl font-bold">
               Roxynho
           </h1>
             <p className="mb-5">
