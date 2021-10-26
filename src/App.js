@@ -5,7 +5,7 @@ import { Carousel } from './components/carousel';
 import { Footer } from './components/footer';
 
 const App = () => (
-  <div className="container mx-auto m-4">
+  <div className="container mx-auto m-4 pr-4 pl-4">
     <NavBar />
     <Hero />
     <Carousel />
